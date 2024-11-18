@@ -87,7 +87,6 @@ spss_utils.ko
 qcom_spss.ko
 spcom.ko
 msm_performance.ko
-hung_task_enh.ko
 qti-fixed-regulator.ko
 qti-ocp-notifier.ko
 msm_geni_serial.ko
